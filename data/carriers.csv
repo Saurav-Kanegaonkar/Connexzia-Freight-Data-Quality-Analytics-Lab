@@ -1,0 +1,6 @@
+carrier_id,carrier_name,region,contracted_rate_per_mile
+CAR001,Northline Freight,West,2.03
+CAR002,Desert Haul,Southwest,2.11
+CAR003,Pinnacle Transport,West,2.19
+CAR004,Sunbelt Logistics,Southwest,2.27
+CAR005,Canyon Express,West,2.35
